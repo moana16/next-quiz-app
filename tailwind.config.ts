@@ -8,6 +8,7 @@ const config: Config = {
   ],
   theme: {
     colors: {
+      transparent: 'transparent',
       main : '#A5D8FA',
       mint: '#00DBA3',
       rate: '#47B1AA',
@@ -15,10 +16,18 @@ const config: Config = {
       mango: '#FFA811',
       white: '#ffffff',
       black: '#000000',
-      bg : '#A5D8FA',
+      green: '#47B1AA',
+      red : '#FE5868',
+      gray : '#636061',
+      blue : '#3261e3',
+      bg : {
+        DEFAULT : '#A5D8FA',
+        gray : '#E8E9E8',
+        light_gray : '#F4F4F4'
+      },
       border : {
         DEFAULT :'#1EA4FF',
-        sub : '#87CEFA '
+        sub : '#87CEFA',
       },
       text : {
         DEFAULT: '#15181e',

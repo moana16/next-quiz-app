@@ -1,0 +1,52 @@
+[
+    {
+        "id" : 1,
+        "text" : "정렬 알고리즘 중 최악의 경우를 가정할 때 시간복잡도가 다른 것은?",
+        "options" : [
+            {
+                "id" : 1,
+                "text" : "삽입 정렬"
+            },
+            {
+                "id" : 2,
+                "text" : "쉘 정렬"
+            },
+            {
+                "id" : 3,
+                "text" : "버블 정렬"
+            },
+            {
+                "id" : 4,
+                "text" : "힙 정렬"
+            }
+        ],
+        "answer" : 4,
+        "img" : false,
+        "type" : ""
+    },
+    {
+        "id" : 2,
+        "text" : "TCP(Transmission Control Protocol) 기반 응용 프로토콜에 해당하지 않는 것은?",
+        "options" : [
+            {
+                "id" : 1,
+                "text" : "Telnet"
+            },
+            {
+                "id" : 2,
+                "text" : "FTP"
+            },
+            {
+                "id" : 3,
+                "text" : "SMTP"
+            },
+            {
+                "id" : 4,
+                "text" : "SNTP"
+            }
+        ],
+        "answer" : 4,
+        "img" : false,
+        "type" : ""
+    }
+]
