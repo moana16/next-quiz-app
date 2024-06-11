@@ -34,7 +34,7 @@ const Question = ({ question, withId, checkEnabled, getAnswer }: Props) => {
       } `}
     >
       <div className="text-gray text-xl mb-4">
-        {(withId ? question.id + ")" : "") + question.text}
+        {(withId ? question.id + ") " : "") + question.text}
       </div>
 
       {question.options.map((option) => (
